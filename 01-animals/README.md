@@ -28,6 +28,8 @@
             </div>
             ```
 
+        - 💡 Images can be placed in the `./public` folder, as they don't need to be precompiled
+
 ## Goals
 
 - Set up your local dev environment
