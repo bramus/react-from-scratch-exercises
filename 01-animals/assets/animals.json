@@ -162,13 +162,5 @@
         "estimate": {
             "max": 60
         }
-    },
-    {
-        "name": "Bonobo",
-        "image": "bonobo.jpg",
-        "estimate": {
-            "min": 10000,
-            "max": 50000
-        }
     }
 ]
