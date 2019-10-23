@@ -15,7 +15,7 @@
 2. Adjust `<PetForm />` so that its field values are stored in State.
     - 💡 TIP: Begin with `useState` for each field
     - Once that works adjust your state so that it uses a single state Object
-3. Extend the form so that is also contains a `birthyear` field (`input type="number"`)
+3. 💪 EXTRA: Extend the form so that is also contains a `birthyear` field (`input type="number"`)
 
 ### Saving and Removing Pets
 
