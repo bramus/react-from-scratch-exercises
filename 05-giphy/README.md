@@ -23,6 +23,8 @@
     </div>
     ```
 
+    - 💄 The required CSS is included in the `./src` folder of `03-simpleform`
+
 3. 💪 EXTRA: Implement Pagination
 
 ## Goals
