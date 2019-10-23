@@ -6,7 +6,7 @@
 
 - Given is a list of `animals.json`, a set of images, and some CSS. Adjust `App.js` so that it:
     - Imports the `animals.json`
-    - Loops over all animals and renders some HTML for them:
+    - Loop over all animals and renders some HTML for them:
 
         - Animals with `min` and `max` set:
 
