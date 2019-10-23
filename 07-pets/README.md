@@ -32,3 +32,4 @@
 - Gain more familiarity with Components and Passing Props
 - Gain more familiarity with State and the `useState` Hook
 - Gain familiarity with Complex State
+- Gain familiarity with Immutability
