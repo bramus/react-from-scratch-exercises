@@ -2,7 +2,7 @@
 
 ## Assignment
 
-1. Adjust the solution to `09-pets` so that it uses a Reducer
+1. Adjust the solution to `07-pets` so that it uses a Reducer
     - 💡 TIP: Place Recuders inside their own `reducers` subfolder
 
 ## Goals
