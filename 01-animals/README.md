@@ -2,11 +2,17 @@
 
 ## Assignment
 
-- Create a local React app using `create-react-app` and start the development server
+- Given is a list of `animals.json`, a set of images, and some CSS.
 
-- Given is a list of `animals.json`, a set of images, and some CSS. Adjust `App.js` so that it:
+- Create a local React app using `create-react-app` named `01-animals` and start the development server
+
+- Overwrite the `App.css` with the one contained in this repo.
+
+- Adjust `App.js` so that it:
+
     - Imports the `animals.json`
-    - Loop over all animals and renders some HTML for them:
+
+    - Loop over all animals and renders some HTML per animal:
 
         - Animals with `min` and `max` set:
 
@@ -29,6 +35,8 @@
             ```
 
         - 💡 Images can be placed in the `./public` folder, as they don't need to be precompiled
+
+        - 💡 There's a wrapping `<div class="animals">` required around each `<div class="animal">`
 
 ## Goals
 
