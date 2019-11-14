@@ -9,8 +9,11 @@
 
 ## Assignment
 
-1. Adjust `<SearchForm />` so that its search value is stored in State.
-2. Log the contents of the state value when pressing the “Go!” button
+1. Adjust `<App />` so that the form's search value is stored in a state variable, triggered by its `onChange` event
+
+    - 💡 The first argument of an eventhandler is the `event` object. From it you can access the current element using `event.target`. See [https://reactjs.org/docs/handling-events.html](https://reactjs.org/docs/handling-events.html) for more info
+
+2. Log the contents of the state value when submitting the form (``)
 
 ## Goals
 
