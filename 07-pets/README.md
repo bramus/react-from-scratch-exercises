@@ -33,3 +33,7 @@
 - Gain more familiarity with State and the `useState` Hook
 - Gain familiarity with Complex State
 - Gain familiarity with Immutability
+
+### References
+
+- [Immutable Objects (dynamic keys)](https://react-from-scratch-slides.netlify.com/extras/recipes#13)
