@@ -10,7 +10,9 @@
 
 - Adjust `App.js` so that it:
 
-    - Imports the `animals.json`
+    - Imports the `animals.json` into a variable `animals`
+
+    - Uses one wrapping `<div className="animals">`
 
     - Loop over all animals and renders some HTML per animal:
 
@@ -36,8 +38,6 @@
 
         - 💡 Images can be placed in the `./public` folder, as they don't need to be precompiled
 
-        - 💡 There's a wrapping `<div class="animals">` required around each `<div class="animal">`
-
 ## Goals
 
 - Set up your local dev environment
@@ -51,14 +51,20 @@
 
 ## References
 
-- /extras/dev-environment
-- https://create-react-app.dev/docs/getting-started
+### Dev Environment
 
-- /extras/esnext#const-let-var
-- /extras/esnext#arrow-functions
-- /extras/esnext#string-interpolation
-- /extras/esnext#imports-exports
-- /extras/recipes#jsx-tricks-loops-array
-- /extras/esnext#array-functions
+- [https://react-from-scratch-slides.netlify.com/extras/dev-environment](https://react-from-scratch-slides.netlify.com/extras/dev-environment)
+- [https://create-react-app.dev/docs/getting-started](https://create-react-app.dev/docs/getting-started)
 
-- https://imgur.com/gallery/NVNsyel
+### Assignment
+
+- [https://react-from-scratch-slides.netlify.com/extras/esnext#const-let-var](https://react-from-scratch-slides.netlify.com/extras/esnext#const-let-var)
+- [https://react-from-scratch-slides.netlify.com/extras/esnext#arrow-functions](https://react-from-scratch-slides.netlify.com/extras/esnext#arrow-functions)
+- [https://react-from-scratch-slides.netlify.com/extras/esnext#string-interpolation](https://react-from-scratch-slides.netlify.com/extras/esnext#string-interpolation)
+- [https://react-from-scratch-slides.netlify.com/extras/esnext#imports-exports](https://react-from-scratch-slides.netlify.com/extras/esnext#imports-exports)
+- [https://react-from-scratch-slides.netlify.com/extras/recipes#jsx-tricks-loops-array](https://react-from-scratch-slides.netlify.com/extras/recipes#jsx-tricks-loops-array)
+- [https://react-from-scratch-slides.netlify.com/extras/esnext#array-functions](https://react-from-scratch-slides.netlify.com/extras/esnext#array-functions)
+
+### Image Resources
+
+- [https://imgur.com/gallery/NVNsyel](https://imgur.com/gallery/NVNsyel)
