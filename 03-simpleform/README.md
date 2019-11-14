@@ -4,7 +4,7 @@
 
 1. Create new React App using `create-react-app`
 2. Replace the `src/` folder from your fresh app, and replace it with the `src` folder from this exercise
-3. Start the dev server and verify the contents on screen. It should show you a list of pets.
+3. Start the dev server and verify the contents on screen. It should show you a form.
 4. Familiarize yourself with the app structure
 
 ## Assignment
